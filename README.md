@@ -9,7 +9,6 @@
 
 ### 获取方式：
 **扫码关注公众号，回复“美区账号”获取**  
-
  <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/58470cbd3f95cb873dccbb42aab28e10.png" width = "300"  alt="截图"/>
  <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/a7efbafeb69bf66e681da88db05e61a3.jpg" width = "300"  alt="二维码"/>
 
@@ -22,6 +21,7 @@
 使用美区已经购买的id登录下载安装(id持续更新)：
 
 1.首先在手机的“设置”找到itunes store与app store选择退出登录，切记按照下图步骤退出App Store苹果市场，共享账号禁止登录iCloud。  
+
  <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/f3ea716e20074ac35eca7c54a07c9558.png" width = "300"  alt="截图"/>
 
 2.登录下面提供的账号，然后打开App Store进去搜索Shadowrocket  
