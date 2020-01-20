@@ -1,7 +1,7 @@
 美区苹果ID分享+不越狱安装ios小火箭Shadowrocket方法，持续更新中....
 
 ### 最近更新：
-> 2020年1月9日
+> 2020年1月20日
 
 ### 特别提醒：
 禁止登录iCloud，账号只能用于登录App Store苹果市场！  
@@ -20,7 +20,7 @@
 
 使用美区已经购买的id登录下载安装(id持续更新)：
 
-1.首先在手机的“设置”找到itunes store与app store选择退出登录，切记按照下图步骤退出App Store苹果市场，共享账号禁止登录iCloud。  
+1.首先在手机的“设置”找到itunes store与app store选择退出登录，切记按照下图步骤退出App Store苹果市场，**共享账号禁止登录iCloud**。  
 
  <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/f3ea716e20074ac35eca7c54a07c9558.png" width = "300"  alt="截图"/>
 
