@@ -8,7 +8,7 @@
 为了防止id账号密码滥用，通过公众号获取苹果id！
 
 ### 获取方式：
-**扫码关注公众号，回复“美区账号”获取**  
+**扫码或搜索关注公众号“整大事专用”，回复“美区账号”获取**  
  <img src="./src/58470cbd3f95cb873dccbb42aab28e10.png" width = "300"  alt="截图"/>
  <img src="./src/a7efbafeb69bf66e681da88db05e61a3.jpg" width = "300"  alt="二维码"/>
 
