@@ -9,8 +9,8 @@
 
 ### 获取方式：
 **扫码关注公众号，回复“美区账号”获取**  
- <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/58470cbd3f95cb873dccbb42aab28e10.png" width = "300"  alt="截图"/>
- <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/a7efbafeb69bf66e681da88db05e61a3.jpg" width = "300"  alt="二维码"/>
+ <img src="./src/58470cbd3f95cb873dccbb42aab28e10.png" width = "300"  alt="截图"/>
+ <img src="./src/a7efbafeb69bf66e681da88db05e61a3.jpg" width = "300"  alt="二维码"/>
 
 ### Shadowrocket安装
 
@@ -22,7 +22,7 @@
 
 1.首先在手机的“设置”找到itunes store与app store选择退出登录，切记按照下图步骤退出App Store苹果市场，**共享账号禁止登录iCloud**。  
 
- <img src="http://www.chinacion.cn/uploads/article/images/2019-09-30/f3ea716e20074ac35eca7c54a07c9558.png" width = "300"  alt="截图"/>
+ <img src="./src/f3ea716e20074ac35eca7c54a07c9558.png" width = "300"  alt="截图"/>
 
 2.登录下面提供的账号，然后打开App Store进去搜索Shadowrocket  
 请不要使用已购账号购买任何其他免费或付费的 APP，以及任何订阅项目！使用已购账号下载完付费项目后请及时退出账号换回自己的 Apple ID。  
